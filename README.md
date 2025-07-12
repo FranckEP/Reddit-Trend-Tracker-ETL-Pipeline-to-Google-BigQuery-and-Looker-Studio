@@ -1,0 +1,2 @@
+# Reddit-Trend-Tracker-ETL-Pipeline-to-Google-BigQuery-and-Looker-Studio
+This project implements an automated ETL (Extract, Transform, Load) pipeline using the Reddit API. It collects daily posts from selected subreddits (e.g., r/technology, r/datascience), processes and cleans the data, and loads a limited number of rows into Google BigQuery. Finally, the data is visualized through a live dashboard in Looker Studio.
